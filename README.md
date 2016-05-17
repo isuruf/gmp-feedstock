@@ -5,7 +5,7 @@ Home: http://gmplib.org/
 
 Package license: GPL 2 and LGPL 3
 
-Feedstock license: BSD
+Feedstock license: BSD 3-Clause
 
 Summary: The GNU multiprecision library.
 
@@ -69,6 +69,7 @@ Terminology
 
 Current build status
 ====================
+
 Linux: [![Circle CI](https://circleci.com/gh/conda-forge/gmp-feedstock.svg?style=svg)](https://circleci.com/gh/conda-forge/gmp-feedstock)
 OSX: [![TravisCI](https://travis-ci.org/conda-forge/gmp-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/gmp-feedstock) 
 Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/gmp-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/gmp-feedstock/branch/master)
