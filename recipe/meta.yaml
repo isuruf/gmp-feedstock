@@ -10,7 +10,7 @@ source:
   md5: 4c175f86e11eb32d8bf9872ca3a8e11d
 
 build:
-  number: 0
+  number: 1
   skip: true  # [win]
 
 requirements:
@@ -32,6 +32,7 @@ test:
 about:
   home: http://gmplib.org/
   license: GPL 2 and LGPL 3
+  license_file: COPYING.LESSERv3
   summary: The GNU multiprecision library.
 
 extra:
