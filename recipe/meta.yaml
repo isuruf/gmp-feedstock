@@ -1,4 +1,4 @@
-{% set version = "6.1.1" %}
+{% set version = "6.1.2" %}
 
 package:
   name: gmp
@@ -7,10 +7,10 @@ package:
 source:
   fn: gmp-{{ version }}.tar.bz2
   url: https://gmplib.org/download/gmp/gmp-{{ version }}.tar.bz2
-  md5: 4c175f86e11eb32d8bf9872ca3a8e11d
+  sha256: 5275bb04f4863a13516b2f39392ac5e272f5e1bb8057b18aec1c9b79d73d8fb2
 
 build:
-  number: 1
+  number: 0
   skip: true  # [win]
 
 requirements:
