@@ -16,7 +16,7 @@ build:
 requirements:
   build:
     - m4
-    - toolchain
+    - ccache-toolchain
 
 test:
   files:
